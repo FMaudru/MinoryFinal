@@ -1,0 +1,801 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.19f1 (68f137dc9bbe) revision 6877495'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'fr' Physical Memory: 8141 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Sasamory/Documents/UnityProject/MinoryUnityProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49727
+Successfully changed project path to: C:/Users/Sasamory/Documents/UnityProject/MinoryUnityProject
+C:/Users/Sasamory/Documents/UnityProject/MinoryUnityProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 83.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.19f1 (68f137dc9bbe)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Sasamory/Documents/UnityProject/MinoryUnityProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 965M (ID=0x13d9)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56164
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003739 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 88.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.592 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1592ms)
+		BeginReloadAssembly (68ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (565ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (194ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (245ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (88ms)
+				BeforeProcessingInitializeOnLoad (22ms)
+				ProcessInitializeOnLoadAttributes (98ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010040 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 91.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.770 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1771ms)
+		BeginReloadAssembly (199ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (1367ms)
+			LoadAssemblies (136ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (473ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (476ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (91ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (255ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2919 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.3 MB.
+System memory in use after: 157.2 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3371.
+Total: 6.468800 ms (FindLiveObjects: 0.380800 ms CreateObjectMapping: 0.160200 ms MarkObjects: 5.508000 ms  DeleteObjects: 0.416500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/External Assets/KriptoFX/MeshEffect/PostProcess Profile.asset
+  artifactKey: Guid(95138e9503c2c4f40afb07db4043c8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/PostProcess Profile.asset using Guid(95138e9503c2c4f40afb07db4043c8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ea109514327e36fa2ab16c7389852d') in 0.037754 seconds 
+  Import took 0.045269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.300277 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Readme.rtf
+  artifactKey: Guid(df75593420017b64a8a8f3eb7a5f3378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Readme.rtf using Guid(df75593420017b64a8a8f3eb7a5f3378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c966a629fe0e6909765c8419dda0f7c') in 0.017996 seconds 
+  Import took 0.024267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.840188 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Readme.txt
+  artifactKey: Guid(b1a4cfdad744e474f9aba4cf99b05f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Readme.txt using Guid(b1a4cfdad744e474f9aba4cf99b05f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7dd6f24faa263b68ce7069085cbb4d4') in 0.008961 seconds 
+  Import took 0.016684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.550852 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/HDRP and URP patches
+  artifactKey: Guid(092fb88fd9075384ead8ca8e935c2b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/HDRP and URP patches using Guid(092fb88fd9075384ead8ca8e935c2b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba496f5798a7e6d3cca8d7c6bbb928c7') in 0.007829 seconds 
+  Import took 0.014124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.542581 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect1
+  artifactKey: Guid(2d51c9bcfb4cbd94e9d5a7611bcb8bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect1 using Guid(2d51c9bcfb4cbd94e9d5a7611bcb8bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea8d979f2831000d82a8dcba66e286c') in 0.007858 seconds 
+  Import took 0.014686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.791998 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect3
+  artifactKey: Guid(95a19e7cdc651594c8b4eb29477ce198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect3 using Guid(95a19e7cdc651594c8b4eb29477ce198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fb4d0e5b454a1ea3fe34f1b40cb588') in 0.007352 seconds 
+  Import took 0.014396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.345117 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect10
+  artifactKey: Guid(396a5e6a89a57314b9e99dd434569977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect10 using Guid(396a5e6a89a57314b9e99dd434569977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58409b14a815e32cbaa9b7b0c0ebc3b1') in 0.008006 seconds 
+  Import took 0.014402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.333311 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect11
+  artifactKey: Guid(e761f6db42c17e8469f41c609cc6ccd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect11 using Guid(e761f6db42c17e8469f41c609cc6ccd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c148a673d474f9e5dbc7500d21a6d66') in 0.008412 seconds 
+  Import took 0.014756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.651114 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect12
+  artifactKey: Guid(cb638de158db5314e8e47ccdc2e2baa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect12 using Guid(cb638de158db5314e8e47ccdc2e2baa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75b25489070c14b2f97bf562feb57b5') in 0.008312 seconds 
+  Import took 0.015957 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009998 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.389 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1390ms)
+		BeginReloadAssembly (150ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (1153ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (392ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (403ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (140ms)
+				ProcessInitializeOnLoadAttributes (240ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2777 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.0 MB.
+System memory in use after: 146.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3373.
+Total: 4.663600 ms (FindLiveObjects: 0.532600 ms CreateObjectMapping: 0.184200 ms MarkObjects: 3.715200 ms  DeleteObjects: 0.230000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8.042300 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect16
+  artifactKey: Guid(348c034c6ac171f4fbc1f3ceafa9e342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect16 using Guid(348c034c6ac171f4fbc1f3ceafa9e342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f9c35051baa2cca119d0967c49d249') in 0.011498 seconds 
+  Import took 0.017116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect18
+  artifactKey: Guid(a9b6d575c61a4764f9aa4730baba395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect18 using Guid(a9b6d575c61a4764f9aa4730baba395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e38ba9e4feb1519ff9d322928daf1f') in 0.006554 seconds 
+  Import took 0.011834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect21
+  artifactKey: Guid(707a4f539873eec4eb71ec257298e361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect21 using Guid(707a4f539873eec4eb71ec257298e361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4aa571bdda17c3c86ee879f5c23b790') in 0.007465 seconds 
+  Import took 0.012834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.672910 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect2
+  artifactKey: Guid(6ee4829746029734aaee65b868ee84c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect2 using Guid(6ee4829746029734aaee65b868ee84c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c14200a996d2083424519bf663b396') in 0.008328 seconds 
+  Import took 0.014785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.308072 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect5
+  artifactKey: Guid(997eec72388e9e44580d40cdc751d59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect5 using Guid(997eec72388e9e44580d40cdc751d59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f685026169a2965c582a7291a65a73a') in 0.008206 seconds 
+  Import took 0.014253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.244464 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect6
+  artifactKey: Guid(ce48e9d1643672e42b4deb8c3e6f6ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect6 using Guid(ce48e9d1643672e42b4deb8c3e6f6ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef5860c4f233488535fe61363f793f2') in 0.007832 seconds 
+  Import took 0.013999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.740240 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect8
+  artifactKey: Guid(8b9246ef2b3e245419d0ebfc0a3bc78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect8 using Guid(8b9246ef2b3e245419d0ebfc0a3bc78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eefcd3b5b1673ebe7542438b9673975') in 0.008181 seconds 
+  Import took 0.014587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.045508 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect9
+  artifactKey: Guid(5ef3601236eda5440b905957b0d0b440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect9 using Guid(5ef3601236eda5440b905957b0d0b440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '791198caad792f44ee87fd0d49fd525c') in 0.007474 seconds 
+  Import took 0.014347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.442850 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect13
+  artifactKey: Guid(bfa8d8666a5cd4f4fb2fe4bb57f4e3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect13 using Guid(bfa8d8666a5cd4f4fb2fe4bb57f4e3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d5373c06d9cdd6bf77ba0588420f9b') in 0.007655 seconds 
+  Import took 0.014243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.164844 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect14
+  artifactKey: Guid(4ef20fdbc9e89184d853650809c5a8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect14 using Guid(4ef20fdbc9e89184d853650809c5a8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a037fc40ee5a603ec784b1aabeb0d1') in 0.007801 seconds 
+  Import took 0.014112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.190398 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect17
+  artifactKey: Guid(8ba0e7fbd5068f74895077a8feee9cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect17 using Guid(8ba0e7fbd5068f74895077a8feee9cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa36f1f014d2857d9e605a42fce45890') in 0.007786 seconds 
+  Import took 0.014337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.845854 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect19
+  artifactKey: Guid(da732ddce70842147a25f86ac09e38c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect19 using Guid(da732ddce70842147a25f86ac09e38c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97a3c5fa074fa0a7d913daea16c3971') in 0.009262 seconds 
+  Import took 0.015235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.896798 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect20
+  artifactKey: Guid(499ed79ab7f2ec34981ed0b7b7a5e125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect20 using Guid(499ed79ab7f2ec34981ed0b7b7a5e125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63bf440f7f06274dfc82f6fd15f45a8b') in 0.007722 seconds 
+  Import took 0.014718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.203447 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Models
+  artifactKey: Guid(932cf7dee3404da45a127dbad0c1c9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Models using Guid(932cf7dee3404da45a127dbad0c1c9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552eb6d709afb713d5b2206e848107ff') in 0.007370 seconds 
+  Import took 0.013862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067016 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Models/Rock.FBX
+  artifactKey: Guid(a3d9b6f057791434f88cd9e4b84c3e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Models/Rock.FBX using Guid(a3d9b6f057791434f88cd9e4b84c3e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58300408714bb998af0c330a3a3a641') in 0.298114 seconds 
+  Import took 0.304498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Models/SphereHalfOptimized.FBX
+  artifactKey: Guid(3b64c4c90c5886c4188e8b916449f2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Models/SphereHalfOptimized.FBX using Guid(3b64c4c90c5886c4188e8b916449f2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1301eb1a1700f5f78cdbe259ae75f0ba') in 0.026901 seconds 
+  Import took 0.032661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Models/Trails.FBX
+  artifactKey: Guid(7c75cad0d7b3b4a41a7ebf82e86205f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Models/Trails.FBX using Guid(7c75cad0d7b3b4a41a7ebf82e86205f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1eb9149f0a57582baaa3e7bee5cb4b1') in 0.054788 seconds 
+  Import took 0.060155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.756415 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect1.prefab
+  artifactKey: Guid(a1f480689c2691e4ca60d7b61ac55cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect1.prefab using Guid(a1f480689c2691e4ca60d7b61ac55cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1472be41b81672c755a0e5e57f671b22') in 0.019272 seconds 
+  Import took 0.025965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect12.prefab
+  artifactKey: Guid(ee410b25241ca5b4d882ab243ed0ec28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect12.prefab using Guid(ee410b25241ca5b4d882ab243ed0ec28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab8ed580c8a02bce10a41782dbb9677') in 0.023312 seconds 
+  Import took 0.030140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect13.prefab
+  artifactKey: Guid(35116999e9d68934793855a178d5ad0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect13.prefab using Guid(35116999e9d68934793855a178d5ad0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '110c1d6c8cff062afdaea2286c327baf') in 0.020929 seconds 
+  Import took 0.027701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect20.prefab
+  artifactKey: Guid(a67561a23eac9644fb36a13cbb6f880b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect20.prefab using Guid(a67561a23eac9644fb36a13cbb6f880b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212e3b1d2dafda95b96e6773fabb5175') in 0.017534 seconds 
+  Import took 0.024673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect9.prefab
+  artifactKey: Guid(1b930446d9f82a142b3d1dc1b08b2aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect9.prefab using Guid(1b930446d9f82a142b3d1dc1b08b2aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dedf4470e1dd43fe7a3db9f044b74d36') in 0.019049 seconds 
+  Import took 0.025189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect17.prefab
+  artifactKey: Guid(ec8bc866056531f478152e30918cf463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect17.prefab using Guid(ec8bc866056531f478152e30918cf463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e492852ca18a9acb819f361c81cf34c') in 0.019907 seconds 
+  Import took 0.027250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect3.prefab
+  artifactKey: Guid(efae5e56ebb7cd04f8e5de57add5d41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect3.prefab using Guid(efae5e56ebb7cd04f8e5de57add5d41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12594c627d77cca6dec46eaa5640a96c') in 0.020934 seconds 
+  Import took 0.027721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect14.prefab
+  artifactKey: Guid(ee903ef942b90df49ac97e090955a932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect14.prefab using Guid(ee903ef942b90df49ac97e090955a932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '896a3e7343bc9a0dadd7f5e9d5c55df1') in 0.016685 seconds 
+  Import took 0.023023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect5.prefab
+  artifactKey: Guid(b443e26a77d42e14f8ce9553a2e3d66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect5.prefab using Guid(b443e26a77d42e14f8ce9553a2e3d66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19014574612e07b9cca927d6a2a81321') in 0.023922 seconds 
+  Import took 0.032434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect15.prefab
+  artifactKey: Guid(2d07d975b9fe7ee40ba60a911b4de94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect15.prefab using Guid(2d07d975b9fe7ee40ba60a911b4de94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f5a7254f7118d4da5abfcd4310aac8d') in 0.041999 seconds 
+  Import took 0.048526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect19.prefab
+  artifactKey: Guid(7dc1fb0d8e8d01346a938f4b26353016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect19.prefab using Guid(7dc1fb0d8e8d01346a938f4b26353016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a10e05583a920526dec6f101cf5e71') in 0.021800 seconds 
+  Import took 0.028024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect8.prefab
+  artifactKey: Guid(a81c7790dc60711449b2698a0e659254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect8.prefab using Guid(a81c7790dc60711449b2698a0e659254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df619d03c091d8023e75d223d7cc3e4') in 0.015079 seconds 
+  Import took 0.021324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect11.prefab
+  artifactKey: Guid(a47c612bbe8020344b7e25b32c43f19c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect11.prefab using Guid(a47c612bbe8020344b7e25b32c43f19c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec0760528024f6c5182eaaf216f7d35') in 0.006568 seconds 
+  Import took 0.013255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect4.prefab
+  artifactKey: Guid(a027108eca869824e93bcef13617c227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect4.prefab using Guid(a027108eca869824e93bcef13617c227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f79316ac6b0fa287ea57a2afa8d222') in 0.029797 seconds 
+  Import took 0.038617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect21.prefab
+  artifactKey: Guid(47b0ae5a328d70b45b3a6302dc06e937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect21.prefab using Guid(47b0ae5a328d70b45b3a6302dc06e937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a9225b6cfd49cbce63597b2a31cf84') in 0.018011 seconds 
+  Import took 0.024964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect10.prefab
+  artifactKey: Guid(ce16402a5706c5d43b17816535e8435b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect10.prefab using Guid(ce16402a5706c5d43b17816535e8435b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801ecd9b3b3fa7c6b370757088a15338') in 0.019764 seconds 
+  Import took 0.027068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect18.prefab
+  artifactKey: Guid(c75f56d444e719549a62ffcd5c3f0a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect18.prefab using Guid(c75f56d444e719549a62ffcd5c3f0a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27612a7060dd438a62cb67e5b92162ba') in 0.016268 seconds 
+  Import took 0.024029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect16.prefab
+  artifactKey: Guid(3a2e703ea946a3541998e277199bd811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect16.prefab using Guid(3a2e703ea946a3541998e277199bd811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caaabe401757308f339f3455a4126046') in 0.018985 seconds 
+  Import took 0.025393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect7.prefab
+  artifactKey: Guid(ff6f0f6ed5fb04648a63068803ce172a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect7.prefab using Guid(ff6f0f6ed5fb04648a63068803ce172a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader properties can't be added to this global property sheet. Trying to add _GrabTexture (type 3 count 1)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit_Internal ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit ()
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.CameraData,bool) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:400)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:300)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera[]) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:255)
+UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,System.Collections.Generic.List`1<UnityEngine.Camera/RenderRequest>,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.GameObjectInspector:DoRenderPreview ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Runtime/Shaders/ShaderPropertySheet.cpp line 169]
+
+Shader properties can't be added to this global property sheet. Trying to add _GrabTexture_ST (type 1 count 1)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit_Internal ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit ()
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.CameraData,bool) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:400)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:300)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera[]) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:255)
+UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,System.Collections.Generic.List`1<UnityEngine.Camera/RenderRequest>,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.GameObjectInspector:DoRenderPreview ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Runtime/Shaders/ShaderPropertySheet.cpp line 169]
+
+Shader properties can't be added to this global property sheet. Trying to add _GrabTexture_TexelSize (type 1 count 1)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit_Internal ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit ()
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.CameraData,bool) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:400)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:300)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera[]) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:255)
+UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,System.Collections.Generic.List`1<UnityEngine.Camera/RenderRequest>,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.GameObjectInspector:DoRenderPreview ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Runtime/Shaders/ShaderPropertySheet.cpp line 169]
+
+Shader properties can't be added to this global property sheet. Trying to add _GrabTexture_HDR (type 1 count 1)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit_Internal ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit ()
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.CameraData,bool) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:400)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:300)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera[]) (at Library/PackageCache/com.unity.render-pipelines.universal@10.6.0/Runtime/UniversalRenderPipeline.cs:255)
+UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,System.Collections.Generic.List`1<UnityEngine.Camera/RenderRequest>,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.GameObjectInspector:DoRenderPreview ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Runtime/Shaders/ShaderPropertySheet.cpp line 169]
+
+ -> (artifact id: '7a21a00152e3ce7362119cdda4a3f077') in 0.027800 seconds 
+  Import took 0.035882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect2.prefab
+  artifactKey: Guid(b1f11e54366d8f645a479f338e3e1189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect2.prefab using Guid(b1f11e54366d8f645a479f338e3e1189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b17c02c8a72f857462db29f5438fcd') in 0.015808 seconds 
+  Import took 0.022463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect6.prefab
+  artifactKey: Guid(3534d34ed60de86488d565def6a29c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect6.prefab using Guid(3534d34ed60de86488d565def6a29c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd6ae7b0a29cf7a811ce1780933278b') in 0.016174 seconds 
+  Import took 0.024741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.064806 seconds.
+  path: Assets/Prefabs/Creature_Yellow.prefab
+  artifactKey: Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Creature_Yellow.prefab using Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2393cd0d51cf646dbd3de4fd63b4d357') in 0.105030 seconds 
+  Import took 0.114289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.761151 seconds.
+  path: Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect15/LightningParticle.mat
+  artifactKey: Guid(055a08910b4a2fe44985f59041945d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/KriptoFX/MeshEffect/Materials/Effect15/LightningParticle.mat using Guid(055a08910b4a2fe44985f59041945d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad34a661aa498c29d7e735f1397ed74') in 0.046403 seconds 
+  Import took 0.053772 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.424 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1425ms)
+		BeginReloadAssembly (156ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1186ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (373ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (427ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (126ms)
+				ProcessInitializeOnLoadAttributes (278ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2777 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.7 MB.
+System memory in use after: 166.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3461.
+Total: 5.062400 ms (FindLiveObjects: 0.384500 ms CreateObjectMapping: 0.277800 ms MarkObjects: 4.092600 ms  DeleteObjects: 0.306200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 14.986017 seconds.
+  path: Assets/Prefabs/Creature_Yellow.prefab
+  artifactKey: Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Creature_Yellow.prefab using Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fac722cb8cd36755a1f8698546d236b') in 0.292176 seconds 
+  Import took 0.300486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.381646 seconds.
+  path: Assets/Prefabs/Creature_Yellow.prefab
+  artifactKey: Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Creature_Yellow.prefab using Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a16354977f4d07fbbe19f6a87b6d57') in 0.058063 seconds 
+  Import took 0.066325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.581019 seconds.
+  path: Assets/Prefabs/Creature_Yellow.prefab
+  artifactKey: Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Creature_Yellow.prefab using Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb2e4b58f54b17105a87567dd292bc12') in 0.053190 seconds 
+  Import took 0.061962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.623507 seconds.
+  path: Assets/Prefabs/Creature_Yellow.prefab
+  artifactKey: Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Creature_Yellow.prefab using Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb7db4f83cae29d8d9537d7358851d3') in 0.051143 seconds 
+  Import took 0.061297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.601682 seconds.
+  path: Assets/Prefabs/Creature_Yellow.prefab
+  artifactKey: Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Creature_Yellow.prefab using Guid(5bf1c7168ea77b346a6ccf9cbe62a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd099ab35f7168ce502fd92bb9eea8f01') in 0.047757 seconds 
+  Import took 0.056001 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009568 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.318 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1318ms)
+		BeginReloadAssembly (135ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1105ms)
+			LoadAssemblies (118ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (382ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (368ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (233ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2777 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.9 MB.
+System memory in use after: 166.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3499.
+Total: 4.465800 ms (FindLiveObjects: 0.381400 ms CreateObjectMapping: 0.291600 ms MarkObjects: 3.551100 ms  DeleteObjects: 0.240500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
